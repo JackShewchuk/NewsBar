@@ -1,0 +1,4 @@
+NewsBar
+=======
+
+Just newsbar
